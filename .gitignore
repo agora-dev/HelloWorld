@@ -1,8 +1,8 @@
 # IDE file
 .idea
 
-# npm debugging logs
-npm-debug.log*
+# logs
+*.log
 
 # project dependencies
 node_modules
