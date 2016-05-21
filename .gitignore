@@ -4,9 +4,12 @@
 # logs
 *.log
 
+# Generated ES5 files
+private/dist
+public/dist
+
 # project dependencies
 node_modules
 
 # temporary files
 *.tmp
-*~

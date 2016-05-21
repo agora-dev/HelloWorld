@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/agora-dev/HelloWorld/issues"
   },
-  "homepage": "https://github.com/agora-dev/HelloWorld#readme"
+  "homepage": "https://github.com/agora-dev/HelloWorld#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-eslint": "^2.0.0"
+  }
 }
